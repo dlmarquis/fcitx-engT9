@@ -1,0 +1,9 @@
+[CodeTable]
+UniqueName=t9-en
+_Name=T9 (Phone)
+IconName=t9-en
+File=t9-en.mb
+AutoSend=-1
+ExactMatch=False
+PromptTableCode=True
+LangCode=en_US
